@@ -1,17 +1,17 @@
-# Research Sources: B2B SaaS Cold Outreach Pipeline
+# Research Index: Verified High-Signal 10
 
 ## 1. Regional Anchor (Indonesia)
-* **Suwandi Soh** (CEO, Mekari) - Essential for regional GTM (Go-To-Market) and SME adoption nuances in Southeast Asia.
+1. **Suwandi Soh** (CEO, Mekari) - Indonesia GTM, SME adoption, and regional trust/compliance.
 
 ## 2. Technical Architects (Global)
-* **Nick Abraham** (Whalesync) - The authority on cold email infrastructure, deliverability, and data synchronization.
-* **Eric Nowoslawski** (Growth Engine X) - Expert in programmatic outbound, AI scraping, and Clay workflows.
-* **Lead Gen Jay** - Focuses on integrating AI-native tools into the modern lead generation stack.
+2. **Nick Abraham** (Whalesync) - Cold email infrastructure, deliverability, and domain rotation.
+3. **Eric Nowoslawski** (Growth Engine X) - Programmatic outbound, data enrichment, and Clay workflows.
+4. **Lead Gen Jay** - AI-native prospecting stack, workflow automation, and operator leverage.
 
 ## 3. Strategy & Performance
-* **Guillaume Moubeche** (Lemlist) - Pioneer of multi-channel personalization and authority-based outreach.
-* **Will Allred** (Lavender) - Expert in the psychology of high-reply-rate copywriting.
-* **Chris Orlob** (QuotaSignal) - Master of discovery and sales performance (Ex-Gong leader).
-* **Justin Welsh** - The authority on content distribution and LinkedIn "Authority Flywheels."
-* **Jordan Crawford** (Blueprint) - Specialist in creative data enrichment and intent-based triggers.
-* **Kyle Coleman** (ClickUp) - Expert in Sales/Marketing alignment and scaling GTM machines.
+5. **Jordan Crawford** (Blueprint) - Intent signals, trigger-based outbound, and creative enrichment.
+6. **Kyle Coleman** (Copy.ai/Clari) - Sales & marketing alignment, pipeline quality, and GTM operating rhythm.
+7. **Chris Ritson** (FlexPR) - Outbound systems, process discipline, and scalable SDR execution.
+8. **Guillaume Moubeche** (Lemlist) - Outreach psychology, personalization, and low-friction conversation design.
+9. **Will Allred** (Lavender) - Copywriting quality, email clarity, and reply-rate improvement.
+10. **Justin Welsh** - Audience building, content distribution, and authority-led demand creation.
