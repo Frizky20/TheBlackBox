@@ -1,7 +1,7 @@
 # TheBlackBox
 Portfolio Project
 
-Candidate: Frizky Andiansyah
+Candidate: Frizky Andiyansyah
 
 Date: April 26, 2026
 
