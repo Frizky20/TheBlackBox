@@ -1,4 +1,4 @@
-# Research Index: Verified High-Signal 10
+# Research Index:B2B SaaS Cold Outreach Pipeline
 
 ## 1. Regional Anchor (Indonesia)
 1. **Suwandi Soh** (CEO, Mekari) - Indonesia GTM, SME adoption, and regional trust/compliance.
