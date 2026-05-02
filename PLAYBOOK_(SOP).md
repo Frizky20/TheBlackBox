@@ -94,6 +94,20 @@ Short sequences, calm copy, proof over hype.
 
 ---
 
+## My ideas.
+
+**1. The “Trust-First” WhatsApp Bridge.**
+The Idea: Instead of using WhatsApp for cold pitching, we use it only as a "delivery service" for a specific piece of research the prospect actually asked for in an email.
+
+Why it could work in Indonesia: In this region, jumping straight to WhatsApp can feel like a privacy violation if there’s no prior trust. By sending a formal email first and only using WhatsApp to say, "I’ve sent that payroll compliance breakdown to your email as requested," we respect the boundary while still benefiting from the higher open rates of mobile messaging in SE Asia. It turns a "sales ping" into a helpful notification.
+
+**2. The "Job Post" Forensic Audit**
+The Idea: We find a prospect’s live job posting and send them a 3-sentence note highlighting one specific "friction point" in their application process (e.g., a broken link or a confusing requirement).
+
+Why it could work: Most outreach is about us and our product. This idea is about them and a problem they have right now. It proves we actually looked at their specific hiring setup before reaching out. In a market flooded with generic AI messages, showing that we did a manual "audit" of their current hiring presence makes us stand out as a partner who pays attention to detail.
+
+---
+
 ## Weaknesses & risks of this playbook.
 
 - **Labor-heavy QA:** gated enrichment catches garbage but costs operator hours—small teams bottleneck before prospects ever see mail. (source: Eric Nowoslawski, research/other/eric-nowoslawski-programmatic.md from 2025) · (source: Chris Ritson, research/other/chris-ritson-systems.md from 2026)
