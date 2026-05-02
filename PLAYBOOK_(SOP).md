@@ -96,7 +96,7 @@ Short sequences, calm copy, proof over hype.
 
 ---
 
-## My ideas.
+## My original ideas.
 
 ### 1. The “Trust-First” WhatsApp Bridge
 **The Idea:** Instead of using WhatsApp for cold pitching, we use it only as a "delivery service" for a specific piece of research the prospect actually asked for in an email.
@@ -105,7 +105,7 @@ Short sequences, calm copy, proof over hype.
 
 ---
 
-### 2. The "Job Post" Forensic Audit
+### 2. The "Job Post" Audit
 **The Idea:** We find a prospect’s live job posting and send them a 3-sentence note highlighting one specific "friction point" in their application process (e.g., a broken link or a confusing requirement).
 
 **Why it could work:** Most outreach is about us and our product. This idea is about them and a problem they have right now. It proves we actually looked at their specific hiring setup before reaching out. In a market flooded with generic AI messages, showing that we did a manual "audit" of their current hiring presence makes us stand out as a partner who pays attention to detail.
